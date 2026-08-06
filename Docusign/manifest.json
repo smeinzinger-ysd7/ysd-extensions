@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "DocuSign Security Banner",
+    "version": "1.0",
+    "description": "Injects a security warning on emails claiming to be from DocuSign.",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://mail.google.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ]
+}
