@@ -1,0 +1,5 @@
+# Private signing keys — the extension ID derives from these; never publish
+*.pem
+
+# Internal IT documentation — lives on BookStack, not in this public repo
+Chrome-Extension-Distribution-Runbook.md
