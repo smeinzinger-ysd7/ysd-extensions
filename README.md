@@ -1,6 +1,6 @@
 # ysd-extensions
 
-Self-hosted distribution point for Chrome extensions developed internally by Yerington School District (YSD7) IT. The packaged extensions (`.crx`) and their update manifest (`update.xml`) in this repository are served over GitHub Pages, where district-managed Chrome browsers check for installs and updates.
+Self-hosted distribution point for Chrome extensions developed internally by Yakima School District (YSD7) IT. The packaged extensions (`.crx`) and their update manifest (`update.xml`) in this repository are served over GitHub Pages, where district-managed Chrome browsers check for installs and updates.
 
 ## Extensions
 
